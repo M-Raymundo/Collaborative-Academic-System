@@ -17,9 +17,9 @@
         "token": 2,
         "student_class": "A",
         "school_grades": {
-            "AVA 1": 0.0,
-            "AVA 2": 0.0,
-            "AVA 3": 0.0
+            "AVA 1": 8.0,
+            "AVA 2": 5.0,
+            "AVA 3": 4.0
         }
     },
     {
@@ -41,9 +41,9 @@
         "token": 2,
         "student_class": "A",
         "school_grades": {
-            "AVA 1": 0.0,
-            "AVA 2": 0.0,
-            "AVA 3": 0.0
+            "AVA 1": 9.0,
+            "AVA 2": 9.0,
+            "AVA 3": 9.0
         }
     },
     {
@@ -82,5 +82,4 @@
             "AVA 3": 0.0
         }
     }
-
 ]
